@@ -1,5 +1,4 @@
 #Jacob Reneau
-#10/5
 #CSCI 220
 #Purpose: input/output & grade calculator
 
