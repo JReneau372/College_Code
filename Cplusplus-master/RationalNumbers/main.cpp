@@ -1,6 +1,6 @@
 // Name: Jacob Reneau
 //
-// Date: 11/7/14
+// 
 //
 //
 // Description: This program creates a custom class for rational numbers and allows for overloading of operators.
