@@ -1,6 +1,5 @@
 # Jacob Reneau
-# 9/14/2016
-# CSCI 220
+# CS 220
 # Purpose: Basic input and output
 
 
