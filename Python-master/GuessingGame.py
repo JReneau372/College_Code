@@ -1,3 +1,8 @@
+#Jacob Reneau
+#CS 220 
+#Guessing Game
+
+
 import random
 
 guessesTaken=0
