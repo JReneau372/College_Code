@@ -1,14 +1,7 @@
 // Name: Jacob Reneau
 //
-// Date: 12/5/14
-//
-//
 // Description: This program creates a custom array class to improve upon the what the systems initially offers.
 //
-//
-//
-//
-
 
 #include <iostream>
 #include "array.h"
