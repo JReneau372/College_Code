@@ -1,11 +1,6 @@
 // Name: Jacob Reneau
 //
-// Date: 10/24/24
-//
-//
 // Desription: This program uses classes and class inheritance to build a media library
-//
-//
 //
 
 #ifndef DVD_H
