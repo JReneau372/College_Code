@@ -1,12 +1,9 @@
 // Name: Jacob Reneau
 //
-// Date: 12/5/2014
-//
-//
 // Description: This program creates a payroll. It gives the user the option to print the entire payroll, a single employee's check or a sinlge
 //              employee's information (name, ID, hours worked and wages per hour)
 //
-//
+
 
 
 #include <iostream>
