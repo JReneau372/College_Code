@@ -1,8 +1,5 @@
 // Name: Jacob Reneau
 //
-// Date: 11/21/14
-//
-//
 // Description: This program takes an image and fills the background with a character by using the flood fill function.
 //
 //
